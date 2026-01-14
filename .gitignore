@@ -1,0 +1,14 @@
+# Visual Studio Essentials
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.log
+
+# Database Files
+*.mdf
+*.ldf
+
+# Local Config
+web.config.local
